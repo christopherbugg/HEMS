@@ -1,4 +1,8 @@
-Welcome to HEMS, or the Handy Employee Management System!
+*This is a small and simple program designed as a proof-of-work for a job 
+interview. It isn't designed to be a coprehensive employee management
+system, though it should serve as a great foundation for one.*
+
+##Welcome to HEMS, or the Handy Employee Management System!
 
 This program is designed to be a basic employee management system
 capable of storing basic information about employees in an easily
@@ -10,7 +14,7 @@ Social Security Number, First and Last names, and Payrate (also an
 Integer).
 
 It can be run from a python2 interpreter with the simple command:
->$ python main.py
+`>$ python main.py`
 
 The database is a single-file (database.db) sqlite3 database, generated
 on demand if non-existent.

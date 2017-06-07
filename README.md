@@ -2,7 +2,7 @@
 interview. It isn't designed to be a coprehensive employee management
 system, though it should serve as a great foundation for one.*
 
-##Welcome to HEMS, or the Handy Employee Management System!
+## Welcome to HEMS, or the Handy Employee Management System!
 
 This program is designed to be a basic employee management system
 capable of storing basic information about employees in an easily
